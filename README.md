@@ -22,7 +22,7 @@ El Taller de Teatro de la UCB necesitaba un lugar para mostrar su temporada y ge
 
 | Recurso | Enlace |
 |---|---|
-| Perfil del proyecto | *(Pendiente: enlace al PDF del perfil del proyecto)* |
+| Perfil del proyecto | ([Perfil del Proyecto](https://docs.google.com/document/d/1knvR65pMgieGgZwHJj3H4iIsJz7OpolS_A77JqkCkaw/edit?tab=t.0)) |
 | Design System, Lo-Fi y Hi-Fi | *(Pendiente: enlace al prototipo de Figma)* |
 | Diagramas | *(Pendiente: enlace a los diagramas del sistema)* |
 | Esquema de la base de datos | [schema.sql](teatro-ucb-supabase/supabase/schema.sql) |
